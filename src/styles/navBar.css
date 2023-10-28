@@ -1,0 +1,17 @@
+.nav-wrapper {
+    width: 100vw;
+    background-color: wheat;
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo{
+    width: 30vw;
+    margin-left: 8vw;
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    gap: 4vw;
+}
